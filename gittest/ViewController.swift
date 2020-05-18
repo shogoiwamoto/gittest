@@ -9,6 +9,11 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    
+    let action = String()
+    var imagetext = UIImage()
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
